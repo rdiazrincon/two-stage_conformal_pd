@@ -2,6 +2,10 @@
 
 Code for "Uncertainty-Aware Prediction of Parkinson's Disease Medication Needs: A Two-Stage Conformal Prediction Approach"
 
+# Usage
+
+Please refer to the file two_stage_conformal_pd.ipynb to run experiments.
+
 # Citation
 Please use the following citation to reference our work:
 
