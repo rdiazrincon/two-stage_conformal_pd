@@ -1,0 +1,34 @@
+{
+    "6_months": {
+        "coverage_naive": 0.772203552568411,
+        "coverage_cv_plus": 0.7935669707153145,
+        "coverage_jackknife_plus_ab": 0.7770043206913106,
+        "interval_width_naive": 0.21895171284675596,
+        "interval_width_cv_plus": 0.2644811134842439,
+        "interval_width_jackknife_plus_ab": 0.23852958104462121
+    },
+    "1_year" : {
+        "coverage_naive": 0.733005733005733,
+        "coverage_cv_plus": 0.8108108108108109,
+        "coverage_jackknife_plus_ab": 0.7502047502047502,
+        "interval_width_naive": 0.32173146724700935,
+        "interval_width_cv_plus": 0.4596893048401156,
+        "interval_width_jackknife_plus_ab": 0.3750659292035796
+    },
+    "2_years" : {
+        "coverage_naive": 0.6637010676156584,
+        "coverage_cv_plus": 0.8113879003558719,
+        "coverage_jackknife_plus_ab": 0.702846975088968,
+        "interval_width_naive": 0.22611044287681586,
+        "interval_width_cv_plus": 0.811387900355871,
+        "interval_width_jackknife_plus_ab": 0.702846975088968
+    },
+    "4_years" : {
+        "coverage_naive": 0.5360501567398119,
+        "coverage_cv_plus": 0.8401253918495298,
+        "coverage_jackknife_plus_ab": 0.6238244514106583,
+        "interval_width_naive": 0.14225199818611145,
+        "interval_width_cv_plus": 0.5010159358023126,
+        "interval_width_jackknife_plus_ab": 0.25767911905904695
+    }
+}
