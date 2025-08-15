@@ -19,4 +19,6 @@ Please use the following citation to reference our work:
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {15--16 Aug},
   publisher =    {PMLR},
+  url = {https://arxiv.org/abs/2508.10284}
+  pdf = {https://arxiv.org/pdf/2508.10284}
 }
